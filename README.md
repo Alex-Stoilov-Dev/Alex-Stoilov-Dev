@@ -38,4 +38,4 @@ This hands-on server work naturally steered me toward **backend development**, w
 ## 📫 Let’s Connect
 
 I’m always open to talking about backend development, server management, and game projects.  
-Feel free to [reach out](#) or check out my repos below!
+Feel free to [reach out](https://www.linkedin.com/in/alexandar-stoilov-b5510014a/) or check out my repos below!
