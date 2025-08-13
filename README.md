@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Alexander Stoilov
 
-I’m a passionate backend-focused developer with a strong foundation in technical support, server management, and computer systems.
+I’m a passionate developer with a strong foundation in technical support, server management, and computer systems.
 
 ## 🎓 My Education
 
