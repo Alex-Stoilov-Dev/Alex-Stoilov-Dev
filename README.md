@@ -1,41 +1,32 @@
-# 👋 Hey, I’m Alexander Stoilov
+# Hey, I’m Alexander
 
-I’m a passionate developer with a strong foundation in technical support, server management, and computer systems.
+This is my GitHub account where I post my projects in whatever language I enjoy.
 
-## 🎓 My Education
+## My Education
 
 - Currently entering my **second year** of my **bachelor's degree** in **Computer Systems and Technology**  
 - Graduated from a **vocational school of home appliances** with a focus in **Computer Technology and Engineering**
 
-## 🛠️ My Background
+## My Background
 
-For almost a year, I’ve worked in technical support, where I:
+- Decent knowledge of networking, DNS, Linux. 
+- Mostly self taught programming. 
 
-- Helped clients with **Mail**, **DNS**, **SSH**, **FTP** support  
-- Registered and managed **domain names**  
-- Installed **SSL certificates** and resolved SSL-related issues  
-- Worked with **databases**: created backups, imported databases via terminal, resolved issues (like repairing corrupt **WordPress** tables), and automated regular optimizations using **bash scripts** and **cron jobs**  
-- Troubleshot and resolved **WordPress** website problems  
-- Reviewed **server logs** and monitored **resource usage** using internal tools
+## My Favorite Tech Stack
 
-This hands-on server work naturally steered me toward **backend development**, where I’m most at home.
+- C++ – The language I enjoy coding in the most  
+- Java – The language in which I've done somewhat impressive things
+- MariaDB/MySQL – pretty much the most standardized databases.  
+- Bash scripting – I've used a few script to make my job in tech support a little bit easier. I've also made custom configs for my text editors, terminals, and so on.
+- Godot - I've made a basic platformer game with Godot. 
+- I also made a game similar to Breakout. Created it with C and SDL2
 
-## 💻 What I Code
+## What I'm Working On
 
-- **C / C++** – My strongest languages  
-- **Java** – Built **REST APIs** and created **game mods**  
-- **SQL / Databases** – Comfortable with **backups**, **imports**, **optimizations**, and **troubleshooting**  
-- **Bash scripting** – Automated tasks and database maintenance  
-- **Godot (GDScript)** – Working on a small game project  
-- **C + SDL2** – Built a basic game project
+- Being decent enough at C++ to get a job  
+- Learning more about Computer Systems  
 
-## 🚀 What I'm Working On
-
-- Expanding my backend skills and building scalable apps  
-- Learning more about system design and high-performance applications  
-- Tinkering with game dev projects in my free time
-
-## 📫 Let’s Connect
+## Let’s Connect
 
 I’m always open to talking about backend development, server management, and game projects.  
 Feel free to [reach out](https://www.linkedin.com/in/alexandar-stoilov-b5510014a/) or check out my repos below!
