@@ -24,7 +24,7 @@ This is my GitHub account where I post my projects in whatever language I enjoy.
 ## What I'm Working On
 
 - Being decent enough at C++ to get a job  
-- Learning more about Computer Systems  
+- Getting my Bachelor's in Computer Systems and Technology  
 
 ## Let’s Connect
 
