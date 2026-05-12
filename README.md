@@ -9,16 +9,17 @@ This is my GitHub account where I post my projects in whatever language I enjoy.
 
 ## My Background
 
-- Decent knowledge of networking, DNS, Linux. 
-- Mostly self taught programming. 
+- Decent knowledge of networking, DNS, Linux. Learned during my time as tech support agent @ FastComet, and Hosting.com
+- Currently doing a 6 month internship at Sibiz. 
+- Mostly self taught programming.
 
-## My Favorite Tech Stack
+## Languages and Infrastructure I've worked with
 
 - C++ – The language I enjoy coding in the most  
 - Java – The language in which I've done somewhat impressive things
 - MariaDB/MySQL – pretty much the most standardized databases.  
 - Bash scripting – I've used a few script to make my job in tech support a little bit easier. I've also made custom configs for my text editors, terminals, and so on.
-- Godot - I've made a basic platformer game with Godot. 
+- Godot - I've participated in Game Jams where me and my team used Godot.
 - I also made a game similar to Breakout. Created it with C and SDL2
 
 ## What I'm Working On
