@@ -2,12 +2,12 @@
 
 This is my GitHub account where I post my projects in whatever language I enjoy.
 
-## My Education
+## Education
 
 - Currently entering my **second year** of my **bachelor's degree** in **Computer Systems and Technology**  
 - Graduated from a **vocational school of home appliances** with a focus in **Computer Technology and Engineering**
 
-## My Background
+## Background
 
 - Decent knowledge of networking, DNS, Linux. Learned during my time as tech support agent @ FastComet, and Hosting.com
 - Currently doing a 6 month internship at Sibiz. 
@@ -27,7 +27,7 @@ This is my GitHub account where I post my projects in whatever language I enjoy.
 - Being decent enough at C++ to get a job  
 - Getting my Bachelor's in Computer Systems and Technology  
 
-## Let’s Connect
+## LinkedIn
 
 I’m always open to talking about backend development, server management, and game projects.  
 Feel free to [reach out](https://www.linkedin.com/in/alexandar-stoilov-b5510014a/) or check out my repos below!
